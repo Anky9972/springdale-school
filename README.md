@@ -1,4 +1,4 @@
-# Springdale Public School Website
+# Springdale Public School Website https://springdalepublicschool.vercel.app/
 
 ## Overview
 
@@ -18,7 +18,7 @@ This project is a fully functional and responsive website for Springdale Public 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Anky9972/springdale-school
    cd your-repo
    
 2. **Install Dependencies**
